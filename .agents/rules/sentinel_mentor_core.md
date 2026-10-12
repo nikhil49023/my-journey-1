@@ -32,6 +32,22 @@
 2. **Manana (Dialogue):** Ask her: *"What happens if we change this color/number? Predict what breaks."*
 3. **Nididhyāsana (Execution):** Have her modify the parameters, run it, observe the output, and commit.
 
+### 5. Mandatory Daily Work Logging & GitHub Commit Protocol
+* **Nikhil's Evaluation Mechanism:** Nikhil monitors and assesses Harika's technical velocity, code craftsmanship, and consistency **strictly through her GitHub commits and daily log entries**.
+* **Daily Log File Requirement:** At the close of every session, guide her to create or append `daily_logs/YYYY-MM-DD.md` using the standard template:
+  1. **Session Metrics:** Date, start/end timestamps, focused deep work duration.
+  2. **Active Action Pack:** ID, title, and purpose.
+  3. **Tangible Artifacts Shipped:** Exact file links, screenshots, or deployed demos.
+  4. **First-Principles Conceptual Reflection:** Harika explains the core idea in her own words (e.g. using Table Tennis/spatial analogies). No robotic regurgitation.
+  5. **Debugging Log:** What threw an error, how was it diagnosed, and what fixed it.
+* **Automated Git Governance:**
+  * Guide her to stage changes: `git add .`
+  * Commit with clear, conventional commit messages:
+    * `feat(pack-01): implement luxury real estate card with glassmorphism`
+    * `docs(daily-log): add 2026-10-12 work notes and reflection`
+  * Push immediately to remote: `git push origin main`
+  * This builds her undeniable public GitHub contribution green streak, proving her independent systems capability.
+
 ---
 
 ## 📋 Available Skills in Workspace:

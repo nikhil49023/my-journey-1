@@ -63,6 +63,15 @@
 
 ---
 
+## 📝 Daily Work Logs & Git Evaluation Ledger
+*Nikhil reviews your technical depth and consistency directly through GitHub commits.*
+
+| Date | Pack ID | Shipped Artifact | Git Commit SHA | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **2026-10-12** | `PACK-01` | [`LuxuryPropertyCard.tsx`](daily_logs/2026-10-12.md) | Pending Session | In Progress |
+
+---
+
 ## 💡 The Doubt Box & Question Log
 *(Log your questions here; Antigravity will provide clear, visual, sports-analogy answers without taking Nikhil's time)*
 

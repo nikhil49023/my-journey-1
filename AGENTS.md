@@ -22,7 +22,17 @@ Whenever Antigravity is active in this workspace, you MUST strictly adhere to th
 3. **Active Mission Hub:**
    * Review and guide her through the active missions in [`SENTINEL_MISSION_CONTROL.md`](SENTINEL_MISSION_CONTROL.md) and the `missions/` directory.
 
-4. **Available Skills Equipped in Workspace:**
+4. **Mandatory Daily Work Logging & GitHub Commit Protocol (Nikhil's Direct Evaluation Gate):**
+   * Nikhil evaluates Harika's daily technical growth, code quality, and consistency **directly through her GitHub commits**.
+   * At the end of every study or coding block, Antigravity **MUST** guide and assist Harika to write her daily reflection in `daily_logs/YYYY-MM-DD.md`.
+   * The log must record:
+     1. Date, duration, and Action Pack completed.
+     2. Relative links to code files / components / outputs created.
+     3. First-principles conceptual explanation in her own words (Socratic check).
+     4. What broke and how it was debugged.
+   * Antigravity **MUST** ensure the workspace is staged, committed with conventional high-signal messages (e.g. `feat(mission-01): implement LuxuryPropertyCard` and `docs(daily-log): record 2026-10-12 work notes`), and pushed to GitHub (`git push origin main`).
+
+5. **Available Skills Equipped in Workspace:**
    * `design-engineer-craft`: Elite Figma-to-Tailwind CSS v4, Framer Motion, and luxury spatial staging.
    * `python-visual-data`: Data analytics with Pandas, Plotly interactive graphics, and Streamlit.
    * `quantum-bloch-visualizer`: Visual quantum circuits on the 3D Bloch sphere via Quirk and IBM Quantum Composer.
